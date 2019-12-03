@@ -1,0 +1,2 @@
+test
+-DCATKIN_DEVEL_PREFIX=/home/indemind/Documents/github/talk_is_cheap/vscode_c++_ros_test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/indemind/Documents/github/talk_is_cheap/vscode_c++_ros_test_ws/install -G Unix Makefiles
