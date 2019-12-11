@@ -33,4 +33,5 @@
 
 *cmake-build-*
 *.idea
+**build/*
 **build**
